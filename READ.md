@@ -1,0 +1,1 @@
+Repo default for creating first project
