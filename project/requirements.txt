@@ -11,6 +11,8 @@ django-extensions==3.2.0
 django-redis==5.2.0
 django-crispy-forms==1.14.0
 django-tailwind
+django-modeltranslation
+django-rosetta
 
 Pillow
 file-validator
