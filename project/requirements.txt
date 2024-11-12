@@ -18,6 +18,8 @@ python-dotenv
 drf-yasg
 transliterate
 whitenoise
+drf-spectacular
+drf-spectacular-sidecar
 
 #deploy
 gunicorn
